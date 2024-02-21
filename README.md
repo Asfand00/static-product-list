@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Styling Choices
+
+For styling i centered my text in the middle of the page and for each product, went for a simple border style grid layout that displays each product in descending order (top to bottom).
+
+Each product is listed in a box like container that contains its information and price.
